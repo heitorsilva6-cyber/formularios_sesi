@@ -1,0 +1,56 @@
+body {
+    background-image: url("../imagem/goku.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 30%;
+    text-align: left;
+    background-color: indigo;
+    background-attachment: fixed;
+
+}
+
+h1 {
+    font-family: cursive;
+    background-color: darkmagenta;
+    color: goldenrod;
+    border-style: dotted;
+    text-align: center;
+    border-radius: 10px|;
+}
+
+#dadosextras fieldset {
+    color: white;
+    border: solid 5px gold;
+}
+
+#seuaçai fieldset {
+    color: white;
+    border: solid 5px gold;
+}
+
+#exemplo01 fieldset {
+    color: white;
+    border: solid 5px gold;
+}
+
+#observacoens fieldset{
+   color: white;
+    border: solid 5px gold;
+
+}
+
+label, legend {
+    color: white;
+}
+
+fieldset{
+    border: solid 5px gold;
+}
+
+button{
+    background-color: rgb(223, 81, 223);
+    color: white;
+    padding: 16px;
+    font-size: 18px;
+    border-radius: 10px;
+}
